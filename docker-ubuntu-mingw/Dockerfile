@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM debian:bookworm
 
 LABEL maintainer "Tim Rühsen <tim.ruehsen@gmx.de>"
 
